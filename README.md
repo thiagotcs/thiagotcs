@@ -26,7 +26,7 @@ Talk to me about
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 </p>
-<img align="center"  width="400px" src="https://github.com/thiagotcs/octocat-Thiago/blob/master/octocat-Thiago.png" />
+<img align="center"  width="400px" src="https://github.com/thiagotcs/desafio-api-compasso-uol/blob/master/public/images/Octocat_Carvalho.png" />
 <br>
 
 
