@@ -9,8 +9,8 @@ Apart from having the super-power of sitting on a desk and code for more than 24
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Angular, React, VanillaJS**
-- Backend development using **ASP.NET Core, Node, Express**
+- Front-end development using **VanillaJS, TypeScript, ReactJS**
+- Backend development using **Node, Express**
 - Architectural design for **Relational Database Management Systems** 
 - As well as for NoSQL database systems like **MongoDB / Cassandra**
 - Robust full-stack system design implementation
