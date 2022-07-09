@@ -20,7 +20,6 @@
 -->
 
 
-
 ### ⚙️ GitHub Analytics
 <p align="left">
   <img width="530" src="https://github-readme-stats.vercel.app/api?username=thiagotcs&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
