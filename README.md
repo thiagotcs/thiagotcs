@@ -1,7 +1,27 @@
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+
 #  Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thiago Carvalho
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagotcs&color=yellow" alt="Profile views" /> </p>
 
-## ⚙️ GitHub Analytics
+<!--
+
+- 🔥 I’m a full stack developer that loves everything about coding. 
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Typescript, React, Node.JS**
+
+
+- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+
+- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+
+- ⚡ Fun fact **Oneye 😜**
+
+- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+-->
+
+
+
+### ⚙️ GitHub Analytics
 <p align="left">
   <img width="530" src="https://github-readme-stats.vercel.app/api?username=thiagotcs&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img width="530" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotcs&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
@@ -33,20 +53,17 @@
 ## 📫 Contact Me
     
 <p>
-    <a href="https://wa.me/5544991527385">
+  <a href="https://wa.me/5544991527385">
     <img align="left" alt="Shubhamdeep Jha | Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-     <a href="mailto:thiagotcs.dev@gmail.com">
+  <a href="mailto:thiagotcs.dev@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://in.linkedin.com/in/thiagocarvalhofrontend/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- 
 </p>
-   
-<br>
+</br></br>
 
-
-
+“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” - Albert Einstein
 
