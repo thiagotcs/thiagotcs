@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300" />
 
 #  Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thiago Carvalho
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagotcs&color=yellow" alt="Profile views" /> </p>
