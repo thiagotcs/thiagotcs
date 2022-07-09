@@ -52,9 +52,6 @@
 ## 📫 Contact Me
     
 <p>
-  <a href="https://wa.me/5544991527385">
-    <img align="left" alt="Shubhamdeep Jha | Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <a href="mailto:thiagotcs.dev@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
