@@ -1,12 +1,12 @@
 #  Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thiago Carvalho
 
-<div align="center">
-  <a href="https://github.com/thiagotcs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagotcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotcs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## ⚙️ GitHub Analytics
+<p align="left">
+  <img width="530" src="https://github-readme-stats.vercel.app/api?username=thiagotcs&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img width="530" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotcs&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</p>
 
-## ⚡ Technologies
+## 🚀 Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="thiagotcs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
